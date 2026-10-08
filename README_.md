@@ -2,10 +2,9 @@
 
 How I take a hotel client from signup to go-live on a hotel management software platform, and how I support them after launch. This is a generic, anonymized write-up of my day-to-day work in client implementation and account management. It contains no client names, client data, or company-internal material.
 
-**Role:** Customer Implementation Manager → Senior Onboarding & Account Manager
-**Product type:** Hotel management software (SaaS)
-**Tools:** Zoho (project tracking), the company's ticket system, email, user guides
-
+   - **Role:** Customer Implementation Manager → Senior Onboarding & Account Manager
+   - **Product type:** Hotel management software (SaaS)
+   - **Tools:** Zoho (project tracking), the company's ticket system, email, user guides
 ---
 
 ## The end-to-end process
